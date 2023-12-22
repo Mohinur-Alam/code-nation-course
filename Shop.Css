@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rubik+Bubbles&family=Rubik+Doodle+Shadow&display=swap');
+
+html, body {
+    font-family: 'rubik bubbles', sans-serif;
+    background-color: #6F4E37;
+    text-align: center; 
+    list-style-type: none;
+    color: #2F332D; /* ALL TEXT COLOUR */
+}
+
+
+                                        /* HEADER START */
+.topnav {
+    overflow: hidden;
+    background-color: #1B1E18; /* BACKGROUND COLOUR - NAVBAR */
+}
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2; /* Coffee Kingdom Text Colour*/
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+  .topnav a:hover {
+    background-color: #c4beb5;
+    color: black;
+}
+  
+  /* Create a right-aligned (split) link inside the navigation bar */
+  .topnav a.split {
+    float: right;
+    color: white;
+}
+
+
+                                        /* HEADER END */
+                                        /* FOOTER START */
+.bottomnav {
+    overflow: hidden;
+    background-color: #1B1E18; /* LEFT BACKGROUND COLOUR */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
+
+.bottomnav a {
+    float: left;
+    color: #f2f2f2; /* TEXT COLOUR */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.bottomnav a:hover {
+    background-color: #4d693a; /*BOTTOM NAVBAR COLOUR*/
+    color: black;
+}
+
+                                        /* FOOTER END*/
+
+
+.container img {
+
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+
+
+
+}
+/* IMAGES BELOW */ 
+.img-container {
+    display: flex; 
+    justify-content: space-around;
+    width: 100%; 
+
+
+}
+
+.coffee-img {
+    width: 100%;
+    
+}
+
+.drinks-container {
+    width: 30%; 
+
+}
+
+ul {
+    list-style-type: none;
+}
