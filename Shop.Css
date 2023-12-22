@@ -1,12 +1,11 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rubik+Bubbles&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Kaushan+Script&family=Roboto&family=Rubik+Bubbles&family=Rubik+Doodle+Shadow&family=Rubik+Scribble&display=swap');
 
 html, body {
-    font-family: 'rubik bubbles', sans-serif;
+    font-family: 'Kaushan Script' , sans-serif;
     background-color: #6F4E37;
     text-align: center; 
     list-style-type: none;
-    color: #2F332D; /* ALL TEXT COLOUR */
+    color: #FFF9F0; /* ALL TEXT COLOUR */
 }
 
 
