@@ -33,6 +33,7 @@ html, body {
   .topnav a.split {
     float: right;
     color: white;
+    background: #2f332d;
 }
 
 
